@@ -1,4 +1,4 @@
-# Laboratorio: Tipos de datos<a name="LabTiposDeDatos"></a>
+# Laboratorio: Declaraciones y Tipos de datos<a name="LabTiposDeDatos"></a>
 
 Los siguientes ejercicios tiene como propósito revisar y repasar los 
 conceptos del tema **tipos de datos**
@@ -88,3 +88,5 @@ tu proyecto final. Coloca tu documento (PDF) en tu dropbox.
 3. Investiga cómo se puede implementar la fecha y que la imprima en la salida.
 
 4. Implementa una calculadora aritmética con emojis.	
+
+#### [Volver al inicio](#LabTiposDeDatos)
