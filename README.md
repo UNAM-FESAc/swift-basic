@@ -24,7 +24,7 @@ tu proyecto final. Coloca tu documento (PDF) en tu dropbox.
 
 ### Ejercicios<a name="ejercicios"></a>
 
-1.*01_HolaMundo00.playground*--*01_HolaMundo01.playground*
+1. Cadenas y emojis:
 
 	- Implementa un mensaje, 
 	- Investiga sobre las secuencias de escape o su equivalente.
@@ -32,8 +32,7 @@ tu proyecto final. Coloca tu documento (PDF) en tu dropbox.
 	- Implementa un mensaje de dos parráfos, incluye caracteres 
 	latinos (diéresis, tíldes, etc.).
 
-2.*02_HolaCalcul00.playground*--*03_DataDoubl00.playground*--
-	*04_Contacate00.playground*
+2. Operaciones aritméticas:
 
 	- Implementa un archivo que 
 	realice las cuatro operaciones aritméticas básicas. 
@@ -41,11 +40,11 @@ tu proyecto final. Coloca tu documento (PDF) en tu dropbox.
 	- Concatena y crea un mensaje que muestre resultados de una 
 	operación.
 
-3. *05_ModuleSw00.playground*
+3. Módulos:
 	- Investigue sobre otras funciones del módulo **UIKit**.
 	- Implemente otras tareas con las funciones del módulo.
 	
-4. *06_Funciones00.playground*--*06_Funciones04.playground*
+4. Reto:
 	- Implementa una calculadora de operaciones aritméticas 
 	básicas con funciones.
 	- Implementa etiquetas anónimas.
@@ -53,12 +52,12 @@ tu proyecto final. Coloca tu documento (PDF) en tu dropbox.
 	- Crea una calculadora de áreas y volúmenes de 
 	objetos geométricos (al menos cinco objetos).
 	
-5. *07_EstruCSel00.playground*--*07_EstruCSel04.playground*	
+5. Estructuras/instrucciones de control:
 	- Escribe un código que implemente estructuras de control 
 	selectivas para toma decisiones, por ejemplo: ingreso a una 
 	tienda de ropa, de calzado; ingreso a una escuela u otra, etc.
 	
-6. *08_EstCtrlIte01.playground*--*08_EstCtrlIte06.playground*
+6. Estructuras/instrucciones de control:
 	- Implementa una estructura de control _while_ en una tarea 
 	específica.
 	- Implementa estructuras de control iterativas para calcular 
@@ -67,7 +66,7 @@ tu proyecto final. Coloca tu documento (PDF) en tu dropbox.
 	for, y otras herramientas que te sirvan para realizar operaciones.
 	Implementa diferentes unidades para mostrar la temperatura.
 	
-7. *09_EstrStruc00.playground*--*09_EstrStruc04.playground* 
+7. _enum_
 	- Investique la razón de uso del signo *?* al final de la línea 
 	en la estructura.
 	- Implementa una tipo _enum_ para indicar si un estudiante 
@@ -80,7 +79,7 @@ tu proyecto final. Coloca tu documento (PDF) en tu dropbox.
 	
 ### 3. Ejercicios Especiales<a name="ejerciciosespeciales"></a>
 
-1. Investigue las diferencias que entre la declaración _let_ y y _var_. 
+1. Investigue las diferencias que hay entre la declaración _let_ y y _var_. 
 
 2. Implementa las declaraciones _let_ y _var_ para crear un programa que 
 	imprima un mensaje de bienvenida para una tienda; por ejemplo:
