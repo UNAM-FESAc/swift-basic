@@ -9,7 +9,7 @@ var num3:Double = 5.0
 // Inferencia de tipo
 var num2 = 2
 // Concatenar
-var mensaje = sal + nam + " \(num1) " + " \(num3) "
+var mensaje =  sal + nam + " \(num1) " + " \(num3) "
 // interpolar
 var mensaje2 = "\(sal) \(nam) tu  \"turno\" es \(num2)";
 

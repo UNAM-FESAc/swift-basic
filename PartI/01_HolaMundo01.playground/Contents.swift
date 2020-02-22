@@ -4,8 +4,7 @@
  */
 // Recuerda documentar tus codigos
 
-var letra:Character="🍒";
-
+var letra:Character="😇";
 var cadena:String="\(letra) todos: Hola Mundo"
 
 print(cadena)
