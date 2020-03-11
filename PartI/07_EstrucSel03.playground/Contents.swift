@@ -4,7 +4,7 @@
 let MaxVideoLength = 5
 let OptVideoLength = 3
 let MinVideoLength = 1
-let RealLenght = 6
+let RealLenght = 1
 
 if (RealLenght>=MaxVideoLength){
     print("Muy largo  😣")
@@ -14,4 +14,3 @@ else if (RealLenght<=MaxVideoLength&&RealLenght>=OptVideoLength){
 }else{
     print("Muy bien 😁")
 }
-

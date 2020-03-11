@@ -1,3 +1,13 @@
+<!-- badges -->
+[license-badge]: https://img.shields.io/badge/Licencia-CC-orange
+[license]: https://creativecommons.org/licenses/by-nc-sa/3.0/deed.es
+[![CC License][license-badge]][license]
+
+# Course: Swift basic
+*by: Javier A. Orduz-Ducuara*
+![width='80%'](../figs/Header.jpg)
+
+
 # Laboratorio: Declaraciones y Tipos de datos<a name="LabTiposDeDatos"></a>
 
 Los siguientes ejercicios tiene como propósito revisar y repasar los 
