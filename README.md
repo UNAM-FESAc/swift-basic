@@ -5,7 +5,7 @@
 
 # Course: Swift basic
 *by: Javier A. Orduz-Ducuara*
-![width='80%'](../figs/Header.jpg)
+![width='80%'](figs/Header.jpg)
 
 
 # Laboratorio: Declaraciones y Tipos de datos<a name="LabTiposDeDatos"></a>
