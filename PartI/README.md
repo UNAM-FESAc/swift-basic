@@ -93,4 +93,10 @@ tu proyecto final. Coloca tu documento (PDF) en tu dropbox.
 [1] https://devcode.la/cursos/swift/
 [2] https://repl.it
 [3] https://onlinegdb.com
+[4] https://www.programiz.com/swift-programming/switch-statement
+[5] https://www.avanderlee.com/swift/loops-swift/
+[6] https://swiftbycoding.dev/swift/estructuras-clases-y-metodos/
+[7] https://docs.swift.org/swift-book/LanguageGuide/ClassesAndStructures.html
+[8] https://justcodeit.io/5-diferencias-entre-un-struct-y-una-class-en-swift/
+
 #### [Volver al inicio](#LabTiposDeDatos)

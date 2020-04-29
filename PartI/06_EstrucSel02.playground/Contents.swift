@@ -1,7 +1,6 @@
 /* ********************* TEXTO SIN ACENTOS *********************/
 // Recuerda documentar tus codigos
-// https://www.programiz.com/swift-programming/switch-statement
-// https://www.avanderlee.com/swift/loops-swift/
+
 let programmingLanguage = (name: "Swift", version: 5)
 switch programmingLanguage {
 case (let name,let version) where (version < 0 && name.count < 0) :
