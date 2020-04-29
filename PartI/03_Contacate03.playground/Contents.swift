@@ -6,6 +6,6 @@ var nam:String = "Javier";
 var num1 = 3;
 
 // interpolar
-var mensaje = "\(sal) \(nam) tu \"turno\" es \(num1)";
+var mensaje = "\(sal) \(nam) tu \"turno\" es \(num1*3/3)";
 
 print(mensaje);

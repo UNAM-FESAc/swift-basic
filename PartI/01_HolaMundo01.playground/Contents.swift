@@ -1,6 +1,5 @@
 /*
  ********************* TEXTO SIN ACENTOS ********************
- https://repl.it
  */
 // Recuerda documentar tus codigos
 

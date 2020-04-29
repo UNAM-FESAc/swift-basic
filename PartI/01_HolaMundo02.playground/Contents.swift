@@ -1,7 +1,5 @@
-/*
- 
-/* ********************* TEXTO SIN ACENTOS *********************/
-// Recuerda documentar tus codigos
+/* ********************* TEXTO SIN ACENTOS *********************
+ Recuerda documentar tus codigos
  */
 
 var 😍=2

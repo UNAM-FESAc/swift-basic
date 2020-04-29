@@ -19,9 +19,8 @@ En las siguientes líneas encuentras la tabla de contenido de esta carpeta.
 1. [Informe de Laboratorio](#InfLabPDF)
 2. [Ejercicios](#ejercicios)
 3. [Ejercicios Especiales](#ejerciciosespeciales)
-<!---
 4. [Referencias](#referencias)
---->
+
 ### Informe de laboratorio<a name="InfLabPDF"></a>
 
 Debes realizar un informe de laboratorio que contenga información sobre la 
@@ -77,16 +76,18 @@ tu proyecto final. Coloca tu documento (PDF) en tu dropbox.
 	Implementa diferentes unidades para mostrar la temperatura.
 	
 7. _enum_
-	- Investique la razón de uso del signo *?* al final de la línea 
-	en la estructura.
 	- Implementa una tipo _enum_ para indicar si un estudiante 
 	reprobó, aprobó o no presentó evaluaciones, y que le 
 	asigne una calificación (aleatoria) dependiendo del caso.
 	- Implementa un código que implemente una estructura 
 	(_enum_), una estructura selectiva (_switch_) y otras 
-	herramientas para informar la temparada del año (considere)
+	herramientas para informar la temporada del año (considere)
 	la fecha de la computadora (función _date_).
 	
+<!---
+	- Investigue la razón de uso del signo *?* al final de la línea 
+	en la estructura.
+--->	
 ### 3. Ejercicios Especiales<a name="ejerciciosespeciales"></a>
 
 1. Investigue las diferencias que hay entre la declaración _let_ y y _var_. 
@@ -97,5 +98,9 @@ tu proyecto final. Coloca tu documento (PDF) en tu dropbox.
 3. Investiga cómo se puede implementar la fecha y que la imprima en la salida.
 
 4. Implementa una calculadora aritmética con emojis.	
+
+### Referencias<a name="referencias"></a>
+[1] https://devcode.la/cursos/swift/
+
 
 #### [Volver al inicio](#LabTiposDeDatos)

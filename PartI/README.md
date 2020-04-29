@@ -89,4 +89,8 @@ tu proyecto final. Coloca tu documento (PDF) en tu dropbox.
 
 4. Implementa una calculadora aritmética con emojis.	
 
+### Referencias<a name="referencias"></a>
+[1] https://devcode.la/cursos/swift/
+[2] https://repl.it
+[3] https://onlinegdb.com
 #### [Volver al inicio](#LabTiposDeDatos)

@@ -2,5 +2,5 @@
 // Recuerda documentar tus codigos
 
 for k in stride(from: 10, through: 1, by: -2){
-    print("hola", k, k * 2, k * k)
+    print("hola", k,"\t", k * 2,"\t", k * k)
 }
